@@ -1,0 +1,28 @@
+#art{
+display:table;
+border-spacing:1px;
+background-color:black;
+border:10px solid green;
+}
+
+.row {
+display:table-row;
+}
+
+.pixel{
+background-color:white;
+display:table-cell;
+width:20px;
+height:20px;
+}
+
+.pen{
+display:inline-block;
+width:40px;
+height:40px;
+border:1.5px solid gray;
+}
+
+#pallet{
+margin-bottom:20px;
+}
